@@ -18,11 +18,14 @@ BAJO DEMANDA,BAJO DEMANDA
 MULTIDEPORTE,MULTIDEPORTE
 M+ Estrenos HD,M+ Estrenos HD
 M+ Estrenos HD,M+ Estrenos
+M+ Cine HD,M+ Cine HD
+M+ SERIES HD,M+ SERIES HD
 M+ Hits HD,M+ Hits HD
 M+ Hits HD,M+ Hits
 M+ Originales HD,M+ Originales HD
 M+ Originales HD,M+ Originales
 M+ Los 90,M+ Los 90
+M+ LOS GOYA,M+ LOS GOYA
 M+ TOM CRUISE,M+ TOM CRUISE
 M+ Documentales HD,M+Documentales HD
 M+ Documentales HD,M+ Documentales
@@ -157,6 +160,8 @@ M+ Copa del Rey,M+ Copa del Rey
 M+ Vamos HD,M+ VamosHD
 M+ Vamos HD,M+ Vamos
 M+ LaLiga TV HD,M+ LaLiga TV HD
+M+ LALIGA HD,M+ LALIGA HD
+M+ LALIGA 2 HD,M+ LALIGA 2 HD
 DAZN LaLiga HD,DAZN LaLiga HD
 LaLiga TV Hypermotion HD,LaLiga TV Hypermotion
 M+ LaLiga TV 2 HD,M+ LaLiga TV 2 HD
@@ -184,6 +189,7 @@ GOL PLAY,GOL PLAY HD
 Teledeporte,tdp HD
 Teledeporte,TELEDEPORTE
 M+ LaLiga TV 3 HD,M+ LaLiga TV 3 HD
+M+ LALIGA TV 3,M+ LALIGA TV 3
 M+ LaLiga TV 4,M+ LaLiga TV 4
 M+ Liga de Campeones 14,M+ Liga de Campeones 14
 M+ Liga de Campeones 15,M+ Liga de Campeones 15
@@ -195,6 +201,16 @@ Movistar Plus+ 2 HD,Movistar Plus+ 2 HD
 Movistar Plus+ 2 HD,Movistar Plus+2 HD
 LaLiga TV Hypermotion 3,LaLiga TV Hypermotion 3
 M+ Liga de Campeones 4,M+ Liga de Campeones 4
+M+LCAMPEON4,M+LCAMPEON4
+M+LCAMPEON5,M+LCAMPEON5
+M+LCAMPEON6,M+LCAMPEON6
+M+LCAMPEON7,M+LCAMPEON7
+M+LCAMPEON8,M+LCAMPEON8
+M+LCAMPEON9,M+LCAMPEON9
+M+LCAMPEON10,M+LCAMPEON10
+M+LCAMPEON11,M+LCAMPEON11
+M+LCAMPEON12,M+LCAMPEON12
+M+LCAMPEON13,M+LCAMPEON13
 M+ Liga de Campeones 5,M+ Liga de Campeones 5
 M+ Liga de Campeones 6,M+ Liga de Campeones 6
 M+ Liga de Campeones 7,M+ Liga de Campeones 7
@@ -224,6 +240,15 @@ LaLiga TV BAR HD,LaLiga TV BAR
 LaLiga TV BAR 2,LaLiga TV BAR 2
 LaLiga TV BAR 3,LaLiga TV BAR 3
 GolStadium BAR,GolStadium BAR
+VEO 7,VEO 7
+MARIAVISION VIGO,MARIAVISION VIGO
+TELEVIGO HD,TELEVIGO HD
+a Sete CANALRIASBAIXAS,a Sete CANALRIASBAIXAS
+NHK WORLD-JPN,NHK WORLD-JPN
+TV5MONDE EUROPE HD,TV5MONDE EUROPE HD
+Bloomberg Europe TV,Bloomberg Europe TV
+GGTN HD,GGTN HD
+GGTN Francais,GGTN Francais
 DAZN F1 BAR,DAZN F1 BAR
 DAZN 1 BAR,DAZN 1 BAR
 DAZN 2 BAR,DAZN 2 BAR
@@ -243,3 +268,5 @@ Squirrel TV,Squirrel,https://raw.githubusercontent.com/jungla-team/Picon-enigma2
 GOL PLAY HD,GOL PLAY HD,https://github.com/davidmuma/picons_dobleM/blob/master/icon/GOL%20PLAY.png
 GOL PLAY,GOL PLAY,https://github.com/davidmuma/picons_dobleM/blob/master/icon/GOL%20PLAY.png
 Daystar Espanol,Daystar Espanol
+M+DEMI MOORE,M+DEMI MOORE
+1ª FEDERACION HD,1ª FEDERACION HD
