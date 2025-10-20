@@ -50,6 +50,7 @@ M+ PopUp 2,M+ PopUp 2
 M+ TERROR,M+ TERROR
 TCM HD,TCM
 BBC DRAMA,BBC DRAMA
+BBC SERIES,BBC SERIES
 BBC Top Gear,BBC Top Gear
 Paramount Network,Paramount Network
 Paramount Network,Paramount
@@ -131,6 +132,7 @@ TV Canaria,TV Canaria
 Max Avances,Max Avances
 SkyShowtime,SkyShowtime
 AXN Movies HD,AXN Movies HD
+AXN Movies HD,AXN MOVIES
 TRECE,TRECE
 Atreseries,A3Series
 Real Madrid TV,Realmadrid TV HD
@@ -162,8 +164,8 @@ M+ Copa del Rey,M+ Copa del Rey
 M+ Vamos HD,M+ VamosHD
 M+ Vamos HD,M+ Vamos
 M+ LaLiga TV HD,M+ LaLiga TV HD
-M+ LALIGA HD,M+ LALIGA HD
-M+ LALIGA 2 HD,M+ LALIGA 2 HD
+M+ LaLiga HD,M+ LALIGA HD
+M+ LaLiga 2 HD,M+ LALIGA 2 HD
 DAZN LaLiga HD,DAZN LaLiga HD
 LaLiga TV Hypermotion HD,LaLiga TV Hypermotion
 M+ LaLiga TV 2 HD,M+ LaLiga TV 2 HD
