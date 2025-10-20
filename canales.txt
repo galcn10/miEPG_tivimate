@@ -13,6 +13,7 @@ La Sexta HD,LA Sexta,https://raw.githubusercontent.com/davidmuma/picons_dobleM/r
 Movistar Plus+ HD,Movistar Plus+ HD
 Movistar Plus+,Movistar Plus+
 TVG,TVG HD Pontevedra
+TVG,TVG UHD
 TVG2,tvg2 HD
 BAJO DEMANDA,BAJO DEMANDA
 MULTIDEPORTE,MULTIDEPORTE
@@ -46,12 +47,13 @@ M+ Indie HD,M+ Indie
 M+ Cine Español,M+Cine Español
 M+ PopUp,M+ PopUp
 M+ PopUp 2,M+ PopUp 2
+M+ TERROR,M+ TERROR
 TCM HD,TCM
-BBC Drama,BBC Drama
+BBC DRAMA,BBC DRAMA
 BBC Top Gear,BBC Top Gear
 Paramount Network,Paramount Network
 Paramount Network,Paramount
-Be Mad,Be Mad tv HD
+Be Mad,BeMad tv HD
 Be Mad,BE MAD
 STAR Channel HD,STAR Channel
 AXN HD,AXN HD
@@ -186,6 +188,7 @@ Eurosport 1 HD,Eurosport1HD
 Eurosport 2,EUROSPORT2
 Eurosport 2,EUROSPORT 2
 GOL PLAY,GOL PLAY HD
+GOL PLAY,GOL
 Teledeporte,tdp HD
 Teledeporte,TELEDEPORTE
 M+ LaLiga TV 3 HD,M+ LaLiga TV 3 HD
