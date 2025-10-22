@@ -49,8 +49,8 @@ M+ PopUp,M+ PopUp
 M+ PopUp 2,M+ PopUp 2
 M+ TERROR,M+ TERROR
 TCM HD,TCM
-BBC DRAMA,BBC DRAMA
-BBC SERIES,BBC SERIES
+BBC Drama,BBC DRAMA
+BBC Series,BBC SERIES
 BBC Top Gear,BBC Top Gear
 Paramount Network,Paramount Network
 Paramount Network,Paramount
