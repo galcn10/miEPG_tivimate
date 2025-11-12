@@ -25,6 +25,7 @@ M+ Hits HD,M+ Hits HD
 M+ Hits HD,M+ Hits
 M+ Originales HD,M+ Originales HD
 M+ Originales HD,M+ Originales
+M+ ROMANCE,M+ ROMANCE
 M+ Los 90,M+ Los 90
 M+ LOS GOYA,M+ LOS GOYA
 M+ TOM CRUISE,M+ TOM CRUISE
@@ -50,7 +51,7 @@ M+ PopUp 2,M+ PopUp 2
 M+ TERROR,M+ TERROR
 M+Nicolas Cage,M+Nicolas Cage
 TCM HD,TCM
-BBC Drama,BBC DRAMA
+BBC DRAMA,BBC DRAMA
 BBC Series,BBC SERIES
 BBC Top Gear,BBC Top Gear
 Paramount Network,Paramount Network
