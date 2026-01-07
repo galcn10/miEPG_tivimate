@@ -272,6 +272,7 @@ A3Serires,A3Series
 24 Horas,24h HD
 TVG Europa HD,TVGA EUROPA HD
 Squirrel TV,Squirrel,https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/refs/heads/main/jungle-picon-Movistar-color/picon/squirrel-color.png
+SQUIRREL2,SQUIRREL2
 GOL PLAY HD,GOL PLAY HD,https://github.com/davidmuma/picons_dobleM/blob/master/icon/GOL%20PLAY.png
 GOL PLAY,GOL PLAY,https://github.com/davidmuma/picons_dobleM/blob/master/icon/GOL%20PLAY.png
 Daystar Espanol,Daystar Espanol
@@ -279,3 +280,6 @@ M+DEMI MOORE,M+DEMI MOORE
 1ª FEDERACION HD,1ª FEDERACION HD
 PRIMERA FEDERACION,1ª FEDERACION HD
 Primera Federación,1ª FEDERACION HD
+DAZNBaloncesto,DAZNBaloncesto
+DAZNBaloncesto2,DAZNBaloncesto2
+DAZNBaloncesto3,DAZNBaloncesto3
