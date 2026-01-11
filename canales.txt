@@ -1,6 +1,6 @@
 La 1 HD,La 1 HD
 La 1 HD,La 1 UHD,https://raw.githubusercontent.com/jungla-team/Picon-TDT-Ibericos/refs/heads/main/Generalistas/la1uhd.png
-La 1,La 1
+La 1 HD,La 1
 La 2,La 2 HD
 La 2,La 2
 Antena 3 HD,Antena 3
@@ -35,10 +35,11 @@ M+ Musicales,M+Musicales
 La Resistencia 24H,La Resistencia 24H
 M+ Clásicos HD,M+ CLASICOS HD
 M+ Clásicos HD,M+ CLÁSICOS HD
-M+ Clásicos HD,M+ CLASICOS
+M+ Clásicos,M+ CLÁSICOS
 M+ Acción HD,M+ ACCION HD
 M+ Acción HD,M+ ACCIÓN HD
 M+ Acción HD,M+ ACCION
+M+ Acción,M+ ACCIÓN
 M+ Comedia HD,M+Comedia HD
 M+ Comedia HD,M+ COMEDIA
 M+ Drama HD,M+ Drama HD
@@ -52,10 +53,9 @@ M+ TERROR,M+ TERROR
 M+Nicolas Cage,M+Nicolas Cage
 TCM HD,TCM
 BBC DRAMA,BBC DRAMA
+M+ BBC Earth,M+ BBC EARTH
 BBC Series,BBC SERIES
 BBC Top Gear,BBC Top Gear
-Paramount Network,Paramount Network
-Paramount Network,Paramount
 Be Mad,BeMad tv HD
 Be Mad,BE MAD
 STAR Channel HD,STAR Channel
@@ -159,15 +159,17 @@ Telemadrid Internacional,Telemadrid Internacional
 SX3,SX3
 Esport 3,Esport 3
 324,324
-PLAYBOY TV,PLAYBOY TV
+Playboy TV,PLAYBOY TV
 Betevé,Betevé
 Canal Fútbol Replay,Canal Fútbol Replay
 M+ Copa del Rey,M+ Copa del Rey
 M+ Vamos HD,M+ VamosHD
 M+ Vamos HD,M+ Vamos
+M+ Vamos 2 HD,M+ VAMOS 2 HD
 M+ LaLiga TV HD,M+ LaLiga TV HD
 M+ LaLiga HD,M+ LALIGA HD
 M+ LaLiga 2 HD,M+ LALIGA 2 HD
+M+ LaLiga 3,M+ LALIGA 3
 DAZN LaLiga HD,DAZN LaLiga HD
 LaLiga TV Hypermotion HD,LaLiga TV Hypermotion
 M+ LaLiga TV 2 HD,M+ LaLiga TV 2 HD
@@ -176,10 +178,31 @@ LaLiga TV Hypermotion 2,LaLiga TV Hypermotion 2
 M+ Liga de Campeones HD,M+LCAMPEONES
 M+ Liga de Campeones 2 HD,M+LCAMPEON2
 M+ Liga de Campeones 3 HD,M+LCAMPEON3
+M+ Liga de Campeones 4,M+LCAMPEON4
+M+ Liga de Campeones 5,M+LCAMPEON5
+M+ Liga de Campeones 6,M+LCAMPEON6
+M+ Liga de Campeones 7,M+LCAMPEON7
+M+ Liga de Campeones 8,M+LCAMPEON8
+M+ Liga de Campeones 9,M+LCAMPEON9
+M+ Liga de Campeones 10,M+LCAMPEON10
+M+ Liga de Campeones 11,M+LCAMPEON11
+M+ Liga de Campeones 12,M+LCAMPEON12
+M+ Liga de Campeones 13,M+LCAMPEON13
+M+ Liga de Campeones 14,M+LCAMPEON14
+M+ Liga de Campeones 15,M+LCAMPEON15
+M+ Liga de Campeones 16,M+LCAMPEON16
+M+ Liga de Campeones 17,M+LCAMPEON17
+M+ Liga de Campeones 18,M+LCAMPEON18
+M+ Liga de Campeones 19,M+LCAMPEON19
 M+ Deportes HD,M+DeportesHD
 M+ Deportes HD,M+Deportes
 M+ Deportes 2 HD,M+Deportes2HD
 M+ Deportes 3,M+Deportes3
+M+ Deportes 4,M+Deportes4
+M+ Deportes 5,M+Deportes5
+M+ Deportes 6,M+Deportes6
+M+ Deportes 7,M+Deportes7
+M+ Deportes 8,M+Deportes8
 M+ Ellas Vamos HD,M+Ellas V HD
 M+ Golf HD,M+ Golf HD
 M+ Golf 2 HD,M+Golf 2
@@ -276,7 +299,7 @@ Squirrel 2,SQUIRREL2
 GOL PLAY HD,GOL PLAY HD,https://github.com/davidmuma/picons_dobleM/blob/master/icon/GOL%20PLAY.png
 GOL PLAY,GOL PLAY,https://github.com/davidmuma/picons_dobleM/blob/master/icon/GOL%20PLAY.png
 Daystar Espanol,Daystar Espanol
-M+ Navidad,M+NAVIDAD
+M+ Navidad,M+ NAVIDAD
 1ª FEDERACION HD,1ª FEDERACION HD
 PRIMERA FEDERACION,1ª FEDERACION HD
 Primera Federación,1ª FEDERACION HD
