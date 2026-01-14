@@ -1,8 +1,8 @@
-La 1 HD,La 1 HD
+La 1 HD,La 1 HD,https://github.com/davidmuma/picons_dobleM/blob/master/icon/La%201.png?raw=true
 La 1 HD,La 1 UHD
-La 1 HD,La 1
-La 2,La 2 HD
-La 2,La 2
+La 1 HD,La 1,https://github.com/davidmuma/picons_dobleM/blob/master/icon/La%201.png?raw=true
+La 2,La 2 HD,https://github.com/davidmuma/picons_dobleM/blob/master/icon/La%202.png?raw=true
+La 2,La 2,https://github.com/davidmuma/picons_dobleM/blob/master/icon/La%202.png?raw=true
 Antena 3 HD,Antena 3
 Cuatro HD,Cuatro HD
 Cuatro HD,CUATRO
@@ -82,13 +82,13 @@ BBC Food,BBC Food
 Divinity,Divinity
 Nova,nova
 Baby TV,BabyTV
-Disney Junior,Disney Jr
+Disney Junior,Disney Jr,https://github.com/davidmuma/picons_dobleM/blob/master/icon/Disney%20Junior.png?raw=true
 Nick JR,Nick JR
 Nickelodeon HD,NICKELODEON
 Dreamworks HD,DreamWorks
 Boing,Boing
-Clan,Clan HD
-Clan,CLAN TVE
+Clan,Clan HD,https://github.com/davidmuma/picons_dobleM/blob/master/icon/Clan.png?raw=true
+Clan,CLAN TVE,https://github.com/davidmuma/picons_dobleM/blob/master/icon/Clan.png?raw=true
 MTV España,MTV España
 MTV España,MTV ESPAÑA
 MTV 00s,MTV 00s
@@ -97,7 +97,7 @@ Mezzo Live HD,Mezzo LIVE HD
 Mezzo Live HD,MEZZO LIVE
 Classica HD,Classica HD
 Classica HD,CLASSICA
-24 Horas,24 Horas
+24 Horas,24 Horas,https://github.com/davidmuma/picons_dobleM/blob/master/icon/24%20Horas.png?raw=true
 BBC World News Europe HD,BBC News
 CNN International Europe,CNN International Europe
 Al Jazeera English HD,Al Jazeera English HD
@@ -158,7 +158,6 @@ EITB Basque,EITB Basque
 Telemadrid Internacional,Telemadrid Internacional
 SX3,SX3
 Esport 3,Esport 3
-324,324
 Playboy TV,PLAYBOY TV
 Betevé,Betevé
 Canal Fútbol Replay,Canal Fútbol Replay
@@ -216,7 +215,7 @@ Eurosport 2,EUROSPORT2
 Eurosport 2,EUROSPORT 2
 GOL PLAY,GOL PLAY HD
 GOL PLAY,GOL
-Teledeporte,tdp HD
+Teledeporte,tdp HD,https://github.com/davidmuma/picons_dobleM/blob/master/icon/Teledeporte.png?raw=true
 Teledeporte,TELEDEPORTE
 M+ LaLiga TV 3 HD,M+ LaLiga TV 3 HD
 M+ LALIGA TV 3,M+ LALIGA TV 3
@@ -300,6 +299,7 @@ GOL PLAY HD,GOL PLAY HD
 GOL PLAY,GOL PLAY
 Daystar Espanol,Daystar Espanol
 M+ Navidad,M+ NAVIDAD
+M+ Tierra Media,M+ TIERRAMEDIA,https://github.com/davidmuma/picons_dobleM/blob/master/icon/M+%20Tierra%20Media.png?raw=true
 1ª FEDERACION HD,1ª FEDERACION HD
 PRIMERA FEDERACION,1ª FEDERACION HD
 Primera Federación,1ª FEDERACION HD
