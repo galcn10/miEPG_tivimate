@@ -1,5 +1,5 @@
 La 1 HD,La 1 HD,https://github.com/davidmuma/picons_dobleM/blob/master/icon/La%201.png?raw=true
-La 1 HD,La 1 UHD
+La 1 HD,La 1 UHD,https://github.com/jungla-team/Picon-enigma2-Movistar/blob/main/jungle-picon-Movistar-color-3d/picon/1_0_1F_9C43_9C40_22D4_EEEE0000_0_0_0.png?raw=true
 La 1 HD,La 1,https://github.com/davidmuma/picons_dobleM/blob/master/icon/La%201.png?raw=true
 La 2,La 2 HD,https://github.com/davidmuma/picons_dobleM/blob/master/icon/La%202.png?raw=true
 La 2,La 2,https://github.com/davidmuma/picons_dobleM/blob/master/icon/La%202.png?raw=true
@@ -67,9 +67,9 @@ Calle 13 HD,Calle 13
 Cosmo HD,Cosmo HD
 Cosmo HD,Cosmo
 SyFy HD,SyFy
-Energy,Energy,
+Energy,Energy,https://github.com/jungla-team/Picon-enigma2-Movistar/blob/main/jungle-picon-Movistar-color/picon/1_0_1_749F_41C_1_C00000_0_0_0.png?raw=true
 Factoría de Ficción,FDF
-Neox,neox
+Neox,neox,https://github.com/jungla-team/Picon-enigma2-Movistar/blob/main/jungle-picon-Movistar-color/picon/1_0_1_99_F_22D4_EEEE0000_0_0_0.png?raw=true
 Caza y Pesca HD,CazayPesca HD
 Caza y Pesca HD,CAZA Y PESCA
 Iberalia TV,Iberalia TV
@@ -79,14 +79,14 @@ Nat Geo Wild HD,Nat Geo Wild
 BBC History,BBC History
 Discovery,Discovery
 BBC Food,BBC Food
-Divinity,Divinity
-Nova,nova
+Divinity,Divinity,https://github.com/jungla-team/Picon-TDT-Ibericos/blob/main/Generalistas/divinity.png?raw=true
+Nova,nova,https://github.com/jungla-team/Picon-TDT-Ibericos/blob/main/Generalistas/nova.png?raw=true
 Baby TV,BabyTV
 Disney Junior,Disney Jr,https://github.com/davidmuma/picons_dobleM/blob/master/icon/Disney%20Junior.png?raw=true
 Nick JR,Nick JR
-Nickelodeon HD,NICKELODEON
+Nickelodeon HD,NICKELODEON,https://github.com/jungla-team/Picon-enigma2-Movistar/blob/main/jungle-picon-Movistar-color/picon/1_0_1_772E_416_1_C00000_0_0_0.png?raw=true
 Dreamworks HD,DreamWorks
-Boing,Boing
+Boing,Boing,https://github.com/jungla-team/Picon-TDT-Ibericos/blob/main/Generalistas/boing.png?raw=true
 Clan,Clan HD,https://github.com/davidmuma/picons_dobleM/blob/master/icon/Clan.png?raw=true
 Clan,CLAN TVE,https://github.com/davidmuma/picons_dobleM/blob/master/icon/Clan.png?raw=true
 MTV España,MTV España
@@ -135,15 +135,15 @@ Max Avances,Max Avances
 SkyShowtime,SkyShowtime
 AXN Movies HD,AXN Movies HD
 AXN Movies HD,AXN MOVIES
-TRECE,TRECE
+TRECE,TRECE,https://github.com/jungla-team/Picon-TDT-Ibericos/blob/main/Generalistas/trece.png?raw=true
 Atreseries,A3Series
 Real Madrid TV,Realmadrid TV HD
 Garage TV,Garage TV
 UBEAT,UBEAT
-DMAX,DMAX
-DKISS,DKISS
-Mega,Mega
-Ten,Ten
+DMAX,DMAX,https://github.com/jungla-team/Picon-TDT-Ibericos/blob/main/Generalistas/dmax.png?raw=true
+DKISS,DKISS,https://github.com/jungla-team/Picon-TDT-Ibericos/blob/main/Generalistas/dkiss.png?raw=true
+Mega,Mega,https://github.com/jungla-team/Picon-TDT-Ibericos/blob/main/Generalistas/mega.png?raw=true
+Ten,Ten,https://github.com/jungla-team/Picon-TDT-Ibericos/blob/main/Generalistas/ten.png?raw=true
 ETB3,ETB3
 EuroNews,EuroNews
 El Toro TV,El Toro TV
@@ -269,7 +269,7 @@ LaLiga TV BAR HD,LaLiga TV BAR
 LaLiga TV BAR 2,LaLiga TV BAR 2
 LaLiga TV BAR 3,LaLiga TV BAR 3
 GolStadium BAR,GolStadium BAR
-VEO 7,VEO 7
+VEO 7,VEO 7,
 MARIAVISION VIGO,MARIAVISION VIGO
 TELEVIGO HD,TELEVIGO HD
 a Sete CANALRIASBAIXAS,a Sete CANALRIASBAIXAS
@@ -288,13 +288,13 @@ GolStadium 4,GolStadium 4
 Torolé TV,Torolé TV
 Iberalia pesca,Iberalia pesca
 Iberalia caza,CAZAyPESCA HD
-Factoría de Ficción,FDF
+Factoría de Ficción,FDF,https://github.com/jungla-team/Picon-enigma2-Movistar/blob/main/jungle-picon-Movistar-color/picon/1_0_1_77BC_40A_1_C00000_0_0_0.png?raw=true
 Be Mad,BeMad tv HD
 A3Serires,A3Series
 24 Horas,24h HD
 TVG Europa HD,TVGA EUROPA HD
-Squirrel TV,Squirrel
-Squirrel 2,SQUIRREL2
+Squirrel TV,Squirrel,https://github.com/jungla-team/Picon-enigma2-Movistar/blob/main/jungle-picon-Movistar-color-3d/picon/1_0_19_C9_E_22D4_EEEE0000_0_0_0.png?raw=true
+Squirrel 2,SQUIRREL2,https://github.com/jungla-team/Picon-enigma2-Movistar/blob/main/jungle-picon-Movistar-color-3d/picon/1_0_19_CA_E_22D4_EEEE0000_0_0_0.png?raw=true
 GOL PLAY HD,GOL PLAY HD
 GOL PLAY,GOL PLAY
 Daystar Espanol,Daystar Espanol
