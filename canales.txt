@@ -1,15 +1,15 @@
 La 1 HD,La 1 HD
-La 1 HD,La 1 UHD,https://raw.githubusercontent.com/jungla-team/Picon-TDT-Ibericos/refs/heads/main/Generalistas/la1uhd.png
+La 1 HD,La 1 UHD
 La 1 HD,La 1
 La 2,La 2 HD
 La 2,La 2
 Antena 3 HD,Antena 3
 Cuatro HD,Cuatro HD
 Cuatro HD,CUATRO
-Telecinco HD,Telecinco HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Telecinco%20HD.png
-Telecinco HD,Telecinco,https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Telecinco%20HD.png
-La Sexta HD,laSexta,https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/La%20Sexta%20HD.png
-La Sexta HD,LA Sexta,https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/La%20Sexta%20HD.png
+Telecinco HD,Telecinco HD
+Telecinco HD,Telecinco
+La Sexta HD,laSexta
+La Sexta HD,LA Sexta
 Movistar Plus+ HD,Movistar Plus+ HD
 Movistar Plus+,Movistar Plus+
 TVG,TVG HD Pontevedra
@@ -67,9 +67,9 @@ Calle 13 HD,Calle 13
 Cosmo HD,Cosmo HD
 Cosmo HD,Cosmo
 SyFy HD,SyFy
-Energy,Energy,https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Energy.png
-Factoría de Ficción,FDF,https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Factor%C3%ADa%20de%20Ficci%C3%B3n.png
-Neox,neox,https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Neox.png
+Energy,Energy,
+Factoría de Ficción,FDF
+Neox,neox
 Caza y Pesca HD,CazayPesca HD
 Caza y Pesca HD,CAZA Y PESCA
 Iberalia TV,Iberalia TV
@@ -80,7 +80,7 @@ BBC History,BBC History
 Discovery,Discovery
 BBC Food,BBC Food
 Divinity,Divinity
-Nova,nova,https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Nova.png
+Nova,nova
 Baby TV,BabyTV
 Disney Junior,Disney Jr
 Nick JR,Nick JR
@@ -140,7 +140,7 @@ Atreseries,A3Series
 Real Madrid TV,Realmadrid TV HD
 Garage TV,Garage TV
 UBEAT,UBEAT
-DMAX,DMAX,https://raw.githubusercontent.com/jungla-team/Picon-TDT-Ibericos/refs/heads/main/Generalistas/dmax.png
+DMAX,DMAX
 DKISS,DKISS
 Mega,Mega
 Ten,Ten
@@ -294,10 +294,10 @@ Be Mad,BeMad tv HD
 A3Serires,A3Series
 24 Horas,24h HD
 TVG Europa HD,TVGA EUROPA HD
-Squirrel TV,Squirrel,https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/refs/heads/main/jungle-picon-Movistar-color/picon/squirrel-color.png
+Squirrel TV,Squirrel
 Squirrel 2,SQUIRREL2
-GOL PLAY HD,GOL PLAY HD,https://github.com/davidmuma/picons_dobleM/blob/master/icon/GOL%20PLAY.png
-GOL PLAY,GOL PLAY,https://github.com/davidmuma/picons_dobleM/blob/master/icon/GOL%20PLAY.png
+GOL PLAY HD,GOL PLAY HD
+GOL PLAY,GOL PLAY
 Daystar Espanol,Daystar Espanol
 M+ Navidad,M+ NAVIDAD
 1ª FEDERACION HD,1ª FEDERACION HD
