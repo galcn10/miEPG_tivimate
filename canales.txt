@@ -1,8 +1,8 @@
-La 1 HD,La 1 HD,https://github.com/davidmuma/picons_dobleM/blob/master/icon/La%201.png?raw=true
-La 1 HD,La 1 UHD,https://github.com/jungla-team/Picon-enigma2-Movistar/blob/main/jungle-picon-Movistar-color-3d/picon/1_0_1F_9C43_9C40_22D4_EEEE0000_0_0_0.png?raw=true
+La 1 HD,La 1 HD,https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/refs/heads/main/jungle-picon-Movistar-color/picon/1_0_1_76C2_40E_1_C00000_0_0_0.png
+La 1 HD,La 1 UHD,https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/refs/heads/main/jungle-picon-Movistar-color-3d/picon/1_0_1F_9C43_9C40_22D4_EEEE0000_0_0_0.png
 La 1 HD,La 1,https://github.com/davidmuma/picons_dobleM/blob/master/icon/La%201.png?raw=true
-La 2,La 2 HD,https://github.com/davidmuma/picons_dobleM/blob/master/icon/La%202.png?raw=true
-La 2,La 2,https://github.com/davidmuma/picons_dobleM/blob/master/icon/La%202.png?raw=true
+La 2,La 2 HD,https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/refs/heads/main/jungle-picon-Movistar-color/picon/1_0_1_7474_3F0_1_C00000_0_0_0.png
+La 2,La 2,https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/refs/heads/main/jungle-picon-Movistar-color/picon/1_0_1_7474_3F0_1_C00000_0_0_0.png
 Antena 3 HD,Antena 3
 Cuatro HD,Cuatro HD
 Cuatro HD,CUATRO
@@ -67,9 +67,9 @@ Calle 13 HD,Calle 13
 Cosmo HD,Cosmo HD
 Cosmo HD,Cosmo
 SyFy HD,SyFy
-Energy,Energy,https://github.com/jungla-team/Picon-enigma2-Movistar/blob/main/jungle-picon-Movistar-color/picon/1_0_1_749F_41C_1_C00000_0_0_0.png?raw=true
-Factoría de Ficción,FDF
-Neox,neox,https://github.com/jungla-team/Picon-enigma2-Movistar/blob/main/jungle-picon-Movistar-color/picon/1_0_1_99_F_22D4_EEEE0000_0_0_0.png?raw=true
+Energy,Energy,https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/refs/heads/main/jungle-picon-Movistar-color/picon/1_0_1_749F_41C_1_C00000_0_0_0.png
+Factoría de Ficción,FDF,https://raw.githubusercontent.com/jungla-team/Picon-TDT-Ibericos/refs/heads/main/Generalistas/fdf.png
+Neox,neox,https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/refs/heads/main/jungle-picon-Movistar-color/picon/1_0_1_99_F_22D4_EEEE0000_0_0_0.png
 Caza y Pesca HD,CazayPesca HD
 Caza y Pesca HD,CAZA Y PESCA
 Iberalia TV,Iberalia TV
@@ -79,16 +79,16 @@ Nat Geo Wild HD,Nat Geo Wild
 BBC History,BBC History
 Discovery,Discovery
 BBC Food,BBC Food
-Divinity,Divinity,https://github.com/jungla-team/Picon-TDT-Ibericos/blob/main/Generalistas/divinity.png?raw=true
-Nova,nova,https://github.com/jungla-team/Picon-TDT-Ibericos/blob/main/Generalistas/nova.png?raw=true
+Divinity,Divinity,https://raw.githubusercontent.com/jungla-team/Picon-TDT-Ibericos/refs/heads/main/Generalistas/divinity.png
+Nova,nova,https://raw.githubusercontent.com/jungla-team/Picon-TDT-Ibericos/refs/heads/main/Generalistas/nova.png
 Baby TV,BabyTV
-Disney Junior,Disney Jr,https://github.com/davidmuma/picons_dobleM/blob/master/icon/Disney%20Junior.png?raw=true
+Disney Junior,Disney Jr,https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Disney%20Junior.png
 Nick JR,Nick JR
-Nickelodeon HD,NICKELODEON,https://github.com/jungla-team/Picon-enigma2-Movistar/blob/main/jungle-picon-Movistar-color/picon/1_0_1_772E_416_1_C00000_0_0_0.png?raw=true
+Nickelodeon HD,NICKELODEON,https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/refs/heads/main/jungle-picon-Movistar-color/picon/1_0_1_772E_416_1_C00000_0_0_0.png
 Dreamworks HD,DreamWorks
-Boing,Boing,https://github.com/jungla-team/Picon-TDT-Ibericos/blob/main/Generalistas/boing.png?raw=true
-Clan,Clan HD,https://github.com/davidmuma/picons_dobleM/blob/master/icon/Clan.png?raw=true
-Clan,CLAN TVE,https://github.com/davidmuma/picons_dobleM/blob/master/icon/Clan.png?raw=true
+Boing,Boing,https://raw.githubusercontent.com/jungla-team/Picon-TDT-Ibericos/refs/heads/main/Generalistas/boing.png
+Clan,Clan HD,https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/refs/heads/main/jungle-picon-Movistar-color/picon/1_0_1_76C1_40E_1_C00000_0_0_0.png
+Clan,CLAN TVE,https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/refs/heads/main/jungle-picon-Movistar-color/picon/1_0_1_76C1_40E_1_C00000_0_0_0.png
 MTV España,MTV España
 MTV España,MTV ESPAÑA
 MTV 00s,MTV 00s
@@ -97,7 +97,7 @@ Mezzo Live HD,Mezzo LIVE HD
 Mezzo Live HD,MEZZO LIVE
 Classica HD,Classica HD
 Classica HD,CLASSICA
-24 Horas,24 Horas,https://github.com/davidmuma/picons_dobleM/blob/master/icon/24%20Horas.png?raw=true
+24 Horas,24 Horas,https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/refs/heads/main/jungle-picon-Movistar-color/picon/1_0_1_7738_416_1_C00000_0_0_0.png
 BBC World News Europe HD,BBC News
 CNN International Europe,CNN International Europe
 Al Jazeera English HD,Al Jazeera English HD
@@ -135,15 +135,15 @@ Max Avances,Max Avances
 SkyShowtime,SkyShowtime
 AXN Movies HD,AXN Movies HD
 AXN Movies HD,AXN MOVIES
-TRECE,TRECE,https://github.com/jungla-team/Picon-TDT-Ibericos/blob/main/Generalistas/trece.png?raw=true
+TRECE,TRECE,https://raw.githubusercontent.com/jungla-team/Picon-TDT-Ibericos/refs/heads/main/Generalistas/trece.png
 Atreseries,A3Series
 Real Madrid TV,Realmadrid TV HD
 Garage TV,Garage TV
 UBEAT,UBEAT
-DMAX,DMAX,https://github.com/jungla-team/Picon-TDT-Ibericos/blob/main/Generalistas/dmax.png?raw=true
-DKISS,DKISS,https://github.com/jungla-team/Picon-TDT-Ibericos/blob/main/Generalistas/dkiss.png?raw=true
-Mega,Mega,https://github.com/jungla-team/Picon-TDT-Ibericos/blob/main/Generalistas/mega.png?raw=true
-Ten,Ten,https://github.com/jungla-team/Picon-TDT-Ibericos/blob/main/Generalistas/ten.png?raw=true
+DMAX,DMAX,https://raw.githubusercontent.com/jungla-team/Picon-TDT-Ibericos/refs/heads/main/Generalistas/dmax.png
+DKISS,DKISS,https://raw.githubusercontent.com/jungla-team/Picon-TDT-Ibericos/refs/heads/main/Generalistas/dkiss.png
+Mega,Mega,https://raw.githubusercontent.com/jungla-team/Picon-TDT-Ibericos/refs/heads/main/Generalistas/mega.png
+Ten,Ten,https://raw.githubusercontent.com/jungla-team/Picon-TDT-Ibericos/refs/heads/main/Generalistas/ten.png
 ETB3,ETB3
 EuroNews,EuroNews
 El Toro TV,El Toro TV
@@ -215,8 +215,8 @@ Eurosport 2,EUROSPORT2
 Eurosport 2,EUROSPORT 2
 GOL PLAY,GOL PLAY HD
 GOL PLAY,GOL
-Teledeporte,tdp HD,https://github.com/davidmuma/picons_dobleM/blob/master/icon/Teledeporte.png?raw=true
-Teledeporte,TELEDEPORTE
+Teledeporte,tdp HD,https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/refs/heads/main/jungle-picon-Movistar-color/picon/1_0_1_76CC_40E_1_C00000_0_0_0.png
+Teledeporte,TELEDEPORTE,https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/refs/heads/main/jungle-picon-Movistar-color/picon/1_0_1_76CC_40E_1_C00000_0_0_0.png
 M+ LaLiga TV 3 HD,M+ LaLiga TV 3 HD
 M+ LALIGA TV 3,M+ LALIGA TV 3
 M+ LaLiga TV 4,M+ LaLiga TV 4
@@ -288,18 +288,18 @@ GolStadium 4,GolStadium 4
 Torolé TV,Torolé TV
 Iberalia pesca,Iberalia pesca
 Iberalia caza,CAZAyPESCA HD
-Factoría de Ficción,FDF,https://github.com/jungla-team/Picon-enigma2-Movistar/blob/main/jungle-picon-Movistar-color/picon/1_0_1_77BC_40A_1_C00000_0_0_0.png?raw=true
+Factoría de Ficción,FDF,https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/refs/heads/main/jungle-picon-Movistar-color/picon/1_0_1_77BC_40A_1_C00000_0_0_0.png
 Be Mad,BeMad tv HD
 A3Serires,A3Series
 24 Horas,24h HD
 TVG Europa HD,TVGA EUROPA HD
-Squirrel TV,Squirrel,https://github.com/jungla-team/Picon-enigma2-Movistar/blob/main/jungle-picon-Movistar-color-3d/picon/1_0_19_C9_E_22D4_EEEE0000_0_0_0.png?raw=true
-Squirrel 2,SQUIRREL2,https://github.com/jungla-team/Picon-enigma2-Movistar/blob/main/jungle-picon-Movistar-color-3d/picon/1_0_19_CA_E_22D4_EEEE0000_0_0_0.png?raw=true
+Squirrel TV,Squirrel,https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/refs/heads/main/jungle-picon-Movistar-color-3d/picon/1_0_19_C9_E_22D4_EEEE0000_0_0_0.png
+Squirrel 2,SQUIRREL2,https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/refs/heads/main/jungle-picon-Movistar-color-3d/picon/1_0_19_CA_E_22D4_EEEE0000_0_0_0.png
 GOL PLAY HD,GOL PLAY HD
 GOL PLAY,GOL PLAY
 Daystar Espanol,Daystar Espanol
 M+ Navidad,M+ NAVIDAD
-M+ Tierra Media,M+Tierra Media,https://github.com/davidmuma/picons_dobleM/blob/master/icon/M+%20Tierra%20Media.png?raw=true
+M+ Tierra Media,M+Tierra Media,https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Tierra%20Media.png
 1ª FEDERACION HD,1ª FEDERACION HD
 PRIMERA FEDERACION,1ª FEDERACION HD
 Primera Federación,1ª FEDERACION HD
