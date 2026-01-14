@@ -299,7 +299,7 @@ GOL PLAY HD,GOL PLAY HD
 GOL PLAY,GOL PLAY
 Daystar Espanol,Daystar Espanol
 M+ Navidad,M+ NAVIDAD
-M+ Tierra Media,M+ TIERRAMEDIA,https://github.com/davidmuma/picons_dobleM/blob/master/icon/M+%20Tierra%20Media.png?raw=true
+M+ Tierra Media,M+Tierra Media,https://github.com/davidmuma/picons_dobleM/blob/master/icon/M+%20Tierra%20Media.png?raw=true
 1ª FEDERACION HD,1ª FEDERACION HD
 PRIMERA FEDERACION,1ª FEDERACION HD
 Primera Federación,1ª FEDERACION HD
