@@ -28,6 +28,7 @@ M+ Originales HD,M+ Originales
 M+ ROMANCE,M+ ROMANCE
 M+ Los 90,M+ Los 90
 M+ LOS GOYA,M+ LOS GOYA
+M+ Cine Bélico,M+Cine Bélico
 M+ TOM CRUISE,M+ TOM CRUISE
 M+ Documentales HD,M+Documentales HD
 M+ Documentales HD,M+ Documentales
