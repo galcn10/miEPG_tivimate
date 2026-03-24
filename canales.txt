@@ -27,6 +27,7 @@ M+ Originales HD,M+ Originales HD
 M+ Originales HD,M+ Originales
 M+ ROMANCE,M+ ROMANCE
 M+ Los 90,M+ Los 90
+M+ LOS 2000,M+ LOS 2000
 M+ LOS GOYA,M+ LOS GOYA
 M+ Cine bélico,M+Cine Bélico
 M+ TOM CRUISE,M+ TOM CRUISE
@@ -282,6 +283,7 @@ GGTN Francais,GGTN Francais
 DAZN F1 BAR,DAZN F1 BAR
 DAZN 1 BAR,DAZN 1 BAR
 DAZN 2 BAR,DAZN 2 BAR
+DAZN MOTO GP,DAZN MOTO GP
 GolStadium,GolStadium
 GolStadium 1,GolStadium 1
 GolStadium 3,GolStadium 3
