@@ -11,7 +11,7 @@ Telecinco HD,Telecinco
 La Sexta HD,laSexta
 La Sexta HD,LA Sexta
 Movistar Plus+ HD,Movistar Plus+ HD
-Movistar Plus+,Movistar Plus+
+Movistar Plus+ HD,Movistar Plus+
 TVG,TVG HD Pontevedra
 TVG,TVG UHD
 TVG2,tvg2 HD
@@ -52,6 +52,7 @@ M+ Cine Español,M+Cine Español
 M+ PopUp,M+ PopUp
 M+ PopUp 2,M+ PopUp 2
 M+ TERROR,M+ TERROR
+M+ OSCARS,M+ OSCARS
 M+Nicolas Cage,M+Nicolas Cage
 TCM HD,TCM
 BBC DRAMA,BBC DRAMA
@@ -164,12 +165,15 @@ Playboy TV,PLAYBOY TV
 Betevé,Betevé
 Canal Fútbol Replay,Canal Fútbol Replay
 M+ Copa del Rey,M+ Copa del Rey
+M+ Ellas,M+ ELLAS V
 M+ Vamos HD,M+ VamosHD
 M+ Vamos HD,M+ Vamos
 M+ Vamos 2 HD,M+ VAMOS 2 HD
+M+ Vamos 2,M+ VAMOS 2
 M+ Vamos 3 HD,M+ VAMOS 3 HD
 M+ LaLiga TV HD,M+ LaLiga TV HD
 M+ LaLiga HD,M+ LALIGA HD
+M+ LaLiga,M+ LALIGA
 M+ LaLiga 2 HD,M+ LALIGA 2 HD
 M+ LaLiga 3,M+ LALIGA 3
 DAZN LaLiga HD,DAZN LaLiga HD
@@ -198,6 +202,7 @@ M+ Liga de Campeones 18,M+LCAMPEON18
 M+ Liga de Campeones 19,M+LCAMPEON19
 M+ Deportes HD,M+DeportesHD
 M+ Deportes HD,M+Deportes
+M+ Deportes HD,M+ Deportes
 M+ Deportes 2 HD,M+Deportes2HD
 M+ Deportes 3,M+Deportes3
 M+ Deportes 4,M+Deportes4
@@ -209,18 +214,21 @@ M+ Ellas Vamos HD,M+Ellas V HD
 M+ Golf HD,M+ Golf HD
 M+ Golf 2 HD,M+Golf 2
 DAZN F1 HD,DAZN F1 HD
+DAZN F1 HD,DAZN F1
 DAZN 1 HD,DAZN 1 HD
 DAZN 1 HD,DAZN 1
 DAZN 2 HD,DAZN 2 HD
 DAZN 2 HD,DAZN 2
-DAZN MOTOGP,DAZN MOTOGP
-DAZN Moto GP,DAZN Moto GP
+DAZN MOTOGP,DAZN MOTO GP
 DAZN MOTO GP,DAZN MOTO GP
+DAZNMOTOGP,DAZN MOTO GP
 Eurosport 1 HD,Eurosport1HD
+Eurosport 1 HD,Eurosport 1
 Eurosport 2,EUROSPORT2
 Eurosport 2,EUROSPORT 2
 GOL PLAY,GOL PLAY HD
-GOL PLAY,GOL
+GOL,GOL PLAY
+GOL PLAY,GOL PLAY
 GOL,GOL
 Teledeporte,tdp HD,https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/refs/heads/main/jungle-picon-Movistar-color/picon/1_0_1_76CC_40E_1_C00000_0_0_0.png
 Teledeporte,TELEDEPORTE,https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/refs/heads/main/jungle-picon-Movistar-color/picon/1_0_1_76CC_40E_1_C00000_0_0_0.png
@@ -261,6 +269,10 @@ M+ Deportes 5,M+ Deportes 5
 M+ Deportes 6,M+ Deportes 6
 M+ Deportes 7,M+ Deportes 7
 M+ Deportes 8,M+ Deportes 8
+DAZN LALIGA,DAZN LALIGA
+DAZN LALIGA HD,DAZN LALIGA HD.
+DAZN LALIGA 2 HD,DAZN LALIGA 2 HD
+DAZN LALIGA 2,DAZN LALIGA 2
 DAZN 3 HD,DAZN 3
 DAZN 4 HD,DAZN 4
 M+ LaLiga TV UHD,M+ LaLiga TV UHD
@@ -275,6 +287,7 @@ LaLiga TV BAR HD,LaLiga TV BAR HD
 LaLiga TV BAR HD,LaLiga TV BAR
 LaLiga TV BAR 2,LaLiga TV BAR 2
 LaLiga TV BAR 3,LaLiga TV BAR 3
+LaLiga TV BAR 4,LALIGA TV BAR 4
 GolStadium BAR,GolStadium BAR
 VEO 7,VEO 7
 MARIAVISION VIGO,MARIAVISION VIGO
@@ -311,3 +324,5 @@ Primera Federación,1ª FEDERACION HD
 DAZN Baloncesto,DAZNBaloncesto
 DAZN Baloncesto 2,DAZNBaloncesto2
 DAZN Baloncesto 3,DAZNBaloncesto3
+ZDF HD,ZDF HD
+ZDF,ZDF
