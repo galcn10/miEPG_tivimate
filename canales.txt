@@ -81,7 +81,7 @@ Cosmo HD,Cosmo
 SyFy HD,SyFy
 Energy,Energy
 Factoría de Ficción,FDF
-Neox,neox.png
+Neox,neox
 Caza y Pesca HD,CazayPesca HD
 Caza y Pesca HD,CAZA Y PESCA
 Iberalia TV,Iberalia TV
@@ -357,3 +357,6 @@ M+FANZONE,M+ FANZONE HD
 M+ FANZONE,M+ FANZONE HD
 DAZN Mundial 3,DAZN Mundial 3
 DAZN Mundial 4,DAZN Mundial4
+M+ Terror,M+ TERROR
+M+ Romance,M+ ROMANCE
+Replay,REPLAY
