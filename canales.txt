@@ -78,7 +78,7 @@ Comedy Central HD,Comedy Central
 Calle 13 HD,Calle 13
 Cosmo HD,Cosmo HD
 Cosmo HD,Cosmo
-SyFy HD,SyFy
+SciFi HD,SyFy
 Energy,Energy
 Factoría de Ficción,FDF
 Neox,neox
