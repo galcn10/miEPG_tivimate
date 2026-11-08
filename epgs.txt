@@ -1,1 +1,2 @@
 https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiafanart_sincolor.xml.gz
+https://www.tdtchannels.com/epg/TV.xml.gz
