@@ -370797,185 +370797,1012 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261109090000 +0000" stop="20261109110000 +0000" channel="LA SÉPTIMA">
-		<title>Puesta al día</title>
-		<desc>Espacio que ofrece un repaso a los principales temas de actualidad que marcarán la jornada informativa.</desc>
-		<icon src="https://www.movistarplus.es/recorte/n/caratula5/MSEPTIMP4443350" />
-		<category>NEWS</category>
+	<programme start="20261109100000 +0100" stop="20261109120000 +0100" channel="LA SÉPTIMA">
+    <title>Puesta al día</title>
+    <sub-title>2026 | ⑫ | ★7.0/10</sub-title>
+    <desc>(Información,Informativo) Espacio que ofrece un repaso a los principales temas de actualidad que marcarán la jornada informativa.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443350" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>7.0/10</value>
+		</star-rating>
 	</programme>
-	<programme start="20261109110000 +0000" stop="20261109112500 +0000" channel="LA SÉPTIMA">
-		<title>El primer pulso</title>
-		<desc>Espacio que oferce una primera toma de contacto con la actualidad del día. Conexiones en directo y últimas horas.</desc>
-		<icon src="https://www.movistarplus.es/recorte/n/caratula5/MSEPTIMP4443352" />
-		<category>NEWS</category>
+	<programme start="20261109120000 +0100" stop="20261109122500 +0100" channel="LA SÉPTIMA">
+    <title>El primer pulso</title>
+    <sub-title>2026 | ⑫ | ★6.0/10</sub-title>
+    <desc>(Información,Informativo) Espacio que oferce una primera toma de contacto con la actualidad del día. Conexiones en directo y últimas horas.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443352" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
-	<programme start="20261109112500 +0000" stop="20261109113500 +0000" channel="LA SÉPTIMA">
-		<title>El Tiempo</title>
-		<desc>Espacio de La Séptimaque ofrece toda la actualidad sobre el tiempo.</desc>
-		<icon src="https://www.movistarplus.es/recorte/n/caratula5/MSEPTIMP4444281" />
-		<category>NEWS</category>
+	<programme start="20261109122500 +0100" stop="20261109123500 +0100" channel="LA SÉPTIMA">
+    <title>El Tiempo</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Información,Meteorología) Espacio de La Séptimaque ofrece toda la actualidad sobre el tiempo.
+· País: España</desc>
+    <category>Información, Meteorología</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4444281" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
-	<programme start="20261109113500 +0000" stop="20261109135500 +0000" channel="LA SÉPTIMA">
-		<title>El pulso</title>
-		<desc>Toda la información y el análisis más completo de la mañana. Conexión con todos los puntos que son noticia y la opinión de todos los protagonistas.</desc>
-		<icon src="https://www.movistarplus.es/recorte/n/caratula5/MSEPTIMP4443354" />
-		<category>NEWS</category>
+	<programme start="20261109123500 +0100" stop="20261109145500 +0100" channel="LA SÉPTIMA">
+    <title>El pulso</title>
+    <sub-title>2026 | ⑫ | ★6.4/10</sub-title>
+    <desc>(Información,Informativo) Toda la información y el análisis más completo de la mañana. Conexión con todos los puntos que son noticia y la opinión de todos los protagonistas.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443354" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.4/10</value>
+		</star-rating>
 	</programme>
-	<programme start="20261109135500 +0000" stop="20261109140500 +0000" channel="LA SÉPTIMA">
-		<title>El relevo: Vero y Sarah</title>
-		<desc>Espacio que ofrece una actualización de las últimas horas que marcan la información política, económica y social.</desc>
-		<icon src="https://www.movistarplus.es/recorte/n/caratula5/MSEPTIMP4443356" />
-		<category>NEWS</category>
+	<programme start="20261109145500 +0100" stop="20261109150500 +0100" channel="LA SÉPTIMA">
+    <title>El relevo: Vero y Sarah</title>
+    <sub-title>2026 | ⑫ | ★6.6/10</sub-title>
+    <desc>(Información,Informativo) Espacio que ofrece una actualización de las últimas horas que marcan la información política, económica y social.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443356" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.6/10</value>
+		</star-rating>
 	</programme>
-	<programme start="20261109140500 +0000" stop="20261109141500 +0000" channel="LA SÉPTIMA">
-		<title>El Tiempo</title>
-		<desc>Espacio de La Séptimaque ofrece toda la actualidad sobre el tiempo.</desc>
-		<icon src="https://www.movistarplus.es/recorte/n/caratula5/MSEPTIMP4444281" />
-		<category>NEWS</category>
+	<programme start="20261109150500 +0100" stop="20261109151500 +0100" channel="LA SÉPTIMA">
+    <title>El Tiempo</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Información,Meteorología) Espacio de La Séptimaque ofrece toda la actualidad sobre el tiempo.
+· País: España</desc>
+    <category>Información, Meteorología</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4444281" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
-	<programme start="20261109141500 +0000" stop="20261109155500 +0000" channel="LA SÉPTIMA">
-		<title>En línea</title>
-		<desc>Espacio que ofrece nuevas voces y nuevas miradas de la actualidad. Con una mirada especial a la calle y a las redes.</desc>
-		<icon src="https://www.movistarplus.es/recorte/n/caratula5/MSEPTIMP4443358" />
-		<category>NEWS</category>
+	<programme start="20261109151500 +0100" stop="20261109165500 +0100" channel="LA SÉPTIMA">
+    <title>En línea</title>
+    <sub-title>2026 | ⑫ | ★5.8/10</sub-title>
+    <desc>(Información,Informativo) Espacio que ofrece nuevas voces y nuevas miradas de la actualidad. Con una mirada especial a la calle y a las redes.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443358" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
 	</programme>
-	<programme start="20261109155500 +0000" stop="20261109161000 +0000" channel="LA SÉPTIMA">
-		<title>El relevo: Sarah y Rocío</title>
-		<desc>Espacio que ofrece una actualización de las últimas horas que marcan la información política, económica y social.</desc>
-		<icon src="https://www.movistarplus.es/recorte/n/caratula5/MSEPTIMP4443360" />
-		<category>NEWS</category>
+	<programme start="20261109165500 +0100" stop="20261109171000 +0100" channel="LA SÉPTIMA">
+    <title>El relevo: Sarah y Rocío</title>
+    <sub-title>2026 | ⑫ | ★6.8/10</sub-title>
+    <desc>(Información,Informativo) Espacio que ofrece una actualización de las últimas horas que marcan la información política, económica y social.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443360" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.8/10</value>
+		</star-rating>
 	</programme>
-	<programme start="20261109161000 +0000" stop="20261109175500 +0000" channel="LA SÉPTIMA">
-		<title>Sobre la mesa</title>
-		<desc>Un enfoque de la actualidad centrado en la cultura, el consumo, la economía, la salud o la inteligencia artificial.</desc>
-		<icon src="https://www.movistarplus.es/recorte/n/caratula5/MSEPTIMP4443362" />
-		<category>NEWS</category>
+	<programme start="20261109171000 +0100" stop="20261109185500 +0100" channel="LA SÉPTIMA">
+    <title>Sobre la mesa</title>
+    <sub-title>2026 | ⑫ | ★6.0/10</sub-title>
+    <desc>(Información,Informativo) Un enfoque de la actualidad centrado en la cultura, el consumo, la economía, la salud o la inteligencia artificial.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443362" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
-	<programme start="20261109175500 +0000" stop="20261109181000 +0000" channel="LA SÉPTIMA">
-		<title>El relevo: Rocío y Noor</title>
-		<desc>Espacio que ofrece una actualización de las últimas horas que marcan la información política, económica y social.</desc>
-		<icon src="https://www.movistarplus.es/recorte/n/caratula5/MSEPTIMP4443364" />
-		<category>NEWS</category>
+	<programme start="20261109185500 +0100" stop="20261109191000 +0100" channel="LA SÉPTIMA">
+    <title>El relevo: Rocío y Noor</title>
+    <sub-title>2026 | ⑫ | ★6.0/10</sub-title>
+    <desc>(Información,Informativo) Espacio que ofrece una actualización de las últimas horas que marcan la información política, económica y social.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443364" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
-	<programme start="20261109181000 +0000" stop="20261109194000 +0000" channel="LA SÉPTIMA">
-		<title>La diana</title>
-		<desc>Detrás de los datos hay una historia. Las ponemos en la diana, indagando en causas y consecuencias.</desc>
-		<icon src="https://www.movistarplus.es/recorte/n/caratula5/MSEPTIMP4443366" />
-		<category>ENTERTAINMENT</category>
+	<programme start="20261109191000 +0100" stop="20261109204000 +0100" channel="LA SÉPTIMA">
+    <title>La diana</title>
+    <sub-title>2026 | ⑫ | ★6.0/10</sub-title>
+    <desc>(Entretenimiento,Testimonios) Detrás de los datos hay una historia. Las ponemos en la diana, indagando en causas y consecuencias.
+· País: España</desc>
+    <category>Entretenimiento, Testimonios</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443366" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
-	<programme start="20261109194000 +0000" stop="20261109195000 +0000" channel="LA SÉPTIMA">
-		<title>El Tiempo</title>
-		<desc>Espacio de La Séptimaque ofrece toda la actualidad sobre el tiempo.</desc>
-		<icon src="https://www.movistarplus.es/recorte/n/caratula5/MSEPTIMP4444281" />
-		<category>NEWS</category>
+	<programme start="20261109204000 +0100" stop="20261109205000 +0100" channel="LA SÉPTIMA">
+    <title>El Tiempo</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Información,Meteorología) Espacio de La Séptimaque ofrece toda la actualidad sobre el tiempo.
+· País: España</desc>
+    <category>Información, Meteorología</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4444281" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
-	<programme start="20261109195000 +0000" stop="20261109200500 +0000" channel="LA SÉPTIMA">
-		<title>El relevo: Noor y Javier</title>
-		<desc>Espacio que ofrece una actualización de las últimas horas que marcan la información política, económica y social.</desc>
-		<icon src="https://www.movistarplus.es/recorte/n/caratula5/MSEPTIMP4443368" />
-		<category>NEWS</category>
+	<programme start="20261109205000 +0100" stop="20261109210500 +0100" channel="LA SÉPTIMA">
+    <title>El relevo: Noor y Javier</title>
+    <sub-title>2026 | ⑫ | ★6.0/10</sub-title>
+    <desc>(Información,Informativo) Espacio que ofrece una actualización de las últimas horas que marcan la información política, económica y social.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443368" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
-	<programme start="20261109200500 +0000" stop="20261110000000 +0000" channel="LA SÉPTIMA">
-		<title>La última hora</title>
-		<desc>Los grandes protagonistas del día participan en un debate abierto, plural, sosegado y pegado a la información.</desc>
-		<icon src="https://www.movistarplus.es/recorte/n/caratula5/MSEPTIMP4443370" />
-		<category>NEWS</category>
+	<programme start="20261109210500 +0100" stop="20261110010000 +0100" channel="LA SÉPTIMA">
+    <title>La última hora</title>
+    <sub-title>2026 | ⑫ | ★7.0/10</sub-title>
+    <desc>(Información,Debate) Los grandes protagonistas del día participan en un debate abierto, plural, sosegado y pegado a la información.
+· País: España</desc>
+    <category>Información, Debate</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443370" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>7.0/10</value>
+		</star-rating>
 	</programme>
-	<programme start="20261110000000 +0000" stop="20261110050000 +0000" channel="LA SÉPTIMA">
-		<title>Galería del coleccionista</title>
-		<desc>Espacio de teletienda del canal La Séptima. Mil y una ideas con un denominador común: el buen gusto, la exclusividad y la alta calidad, que han hecho de esta marca un verdadero símbolo de excelencia en nuestro país.</desc>
-		<icon src="https://www.movistarplus.es/recorte/n/caratula5/MSEPTIMP4443348" />
-		<category>ENTERTAINMENT</category>
+	<programme start="20261110010000 +0100" stop="20261110060000 +0100" channel="LA SÉPTIMA">
+    <title>Galería del coleccionista</title>
+    <sub-title>2026 | TP | ★5.4/10</sub-title>
+    <desc>(Ocio y Aficiones,Televenta) Espacio de teletienda del canal La Séptima. Mil y una ideas con un denominador común: el buen gusto, la exclusividad y la alta calidad, que han hecho de esta marca un verdadero símbolo de excelencia en nuestro país.
+· País: España</desc>
+    <category>Ocio y Aficiones, Televenta</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443348" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.4/10</value>
+		</star-rating>
 	</programme>
-	<programme start="20261110050000 +0000" stop="20261110090000 +0000" channel="LA SÉPTIMA">
-		<title>Galería del coleccionista</title>
-		<desc>Espacio de teletienda del canal La Séptima. Mil y una ideas con un denominador común: el buen gusto, la exclusividad y la alta calidad, que han hecho de esta marca un verdadero símbolo de excelencia en nuestro país.</desc>
-		<icon src="https://www.movistarplus.es/recorte/n/caratula5/MSEPTIMP4443348" />
-		<category>ENTERTAINMENT</category>
+	<programme start="20261110060000 +0100" stop="20261110100000 +0100" channel="LA SÉPTIMA">
+    <title>Galería del coleccionista</title>
+    <sub-title>2026 | TP | ★5.4/10</sub-title>
+    <desc>(Ocio y Aficiones,Televenta) Espacio de teletienda del canal La Séptima. Mil y una ideas con un denominador común: el buen gusto, la exclusividad y la alta calidad, que han hecho de esta marca un verdadero símbolo de excelencia en nuestro país.
+· País: España</desc>
+    <category>Ocio y Aficiones, Televenta</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443348" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.4/10</value>
+		</star-rating>
 	</programme>
-	<programme start="20261110090000 +0000" stop="20261110110000 +0000" channel="LA SÉPTIMA">
-		<title>Puesta al día</title>
-		<desc>Espacio que ofrece un repaso a los principales temas de actualidad que marcarán la jornada informativa.</desc>
-		<icon src="https://www.movistarplus.es/recorte/n/caratula5/MSEPTIMP4443350" />
-		<category>NEWS</category>
+	<programme start="20261110100000 +0100" stop="20261110120000 +0100" channel="LA SÉPTIMA">
+    <title>Puesta al día</title>
+    <sub-title>2026 | ⑫ | ★7.0/10</sub-title>
+    <desc>(Información,Informativo) Espacio que ofrece un repaso a los principales temas de actualidad que marcarán la jornada informativa.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443350" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>7.0/10</value>
+		</star-rating>
 	</programme>
-	<programme start="20261110110000 +0000" stop="20261110112500 +0000" channel="LA SÉPTIMA">
-		<title>El primer pulso</title>
-		<desc>Espacio que oferce una primera toma de contacto con la actualidad del día. Conexiones en directo y últimas horas.</desc>
-		<icon src="https://www.movistarplus.es/recorte/n/caratula5/MSEPTIMP4443352" />
-		<category>NEWS</category>
+	<programme start="20261110120000 +0100" stop="20261110122500 +0100" channel="LA SÉPTIMA">
+    <title>El primer pulso</title>
+    <sub-title>2026 | ⑫ | ★6.0/10</sub-title>
+    <desc>(Información,Informativo) Espacio que oferce una primera toma de contacto con la actualidad del día. Conexiones en directo y últimas horas.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443352" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
-	<programme start="20261110112500 +0000" stop="20261110113500 +0000" channel="LA SÉPTIMA">
-		<title>El Tiempo</title>
-		<desc>Espacio de La Séptimaque ofrece toda la actualidad sobre el tiempo.</desc>
-		<icon src="https://www.movistarplus.es/recorte/n/caratula5/MSEPTIMP4444281" />
-		<category>NEWS</category>
+	<programme start="20261110122500 +0100" stop="20261110123500 +0100" channel="LA SÉPTIMA">
+    <title>El Tiempo</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Información,Meteorología) Espacio de La Séptimaque ofrece toda la actualidad sobre el tiempo.
+· País: España</desc>
+    <category>Información, Meteorología</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4444281" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
-	<programme start="20261110113500 +0000" stop="20261110135500 +0000" channel="LA SÉPTIMA">
-		<title>El pulso</title>
-		<desc>Toda la información y el análisis más completo de la mañana. Conexión con todos los puntos que son noticia y la opinión de todos los protagonistas.</desc>
-		<icon src="https://www.movistarplus.es/recorte/n/caratula5/MSEPTIMP4443354" />
-		<category>NEWS</category>
+	<programme start="20261110123500 +0100" stop="20261110145500 +0100" channel="LA SÉPTIMA">
+    <title>El pulso</title>
+    <sub-title>2026 | ⑫ | ★6.4/10</sub-title>
+    <desc>(Información,Informativo) Toda la información y el análisis más completo de la mañana. Conexión con todos los puntos que son noticia y la opinión de todos los protagonistas.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443354" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.4/10</value>
+		</star-rating>
 	</programme>
-	<programme start="20261110135500 +0000" stop="20261110140500 +0000" channel="LA SÉPTIMA">
-		<title>El relevo: Vero y Sarah</title>
-		<desc>Espacio que ofrece una actualización de las últimas horas que marcan la información política, económica y social.</desc>
-		<icon src="https://www.movistarplus.es/recorte/n/caratula5/MSEPTIMP4443356" />
-		<category>NEWS</category>
+	<programme start="20261110145500 +0100" stop="20261110150500 +0100" channel="LA SÉPTIMA">
+    <title>El relevo: Vero y Sarah</title>
+    <sub-title>2026 | ⑫ | ★6.6/10</sub-title>
+    <desc>(Información,Informativo) Espacio que ofrece una actualización de las últimas horas que marcan la información política, económica y social.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443356" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.6/10</value>
+		</star-rating>
 	</programme>
-	<programme start="20261110140500 +0000" stop="20261110141500 +0000" channel="LA SÉPTIMA">
-		<title>El Tiempo</title>
-		<desc>Espacio de La Séptimaque ofrece toda la actualidad sobre el tiempo.</desc>
-		<icon src="https://www.movistarplus.es/recorte/n/caratula5/MSEPTIMP4444281" />
-		<category>NEWS</category>
+	<programme start="20261110150500 +0100" stop="20261110151500 +0100" channel="LA SÉPTIMA">
+    <title>El Tiempo</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Información,Meteorología) Espacio de La Séptimaque ofrece toda la actualidad sobre el tiempo.
+· País: España</desc>
+    <category>Información, Meteorología</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4444281" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
-	<programme start="20261110141500 +0000" stop="20261110155500 +0000" channel="LA SÉPTIMA">
-		<title>En línea</title>
-		<desc>Espacio que ofrece nuevas voces y nuevas miradas de la actualidad. Con una mirada especial a la calle y a las redes.</desc>
-		<icon src="https://www.movistarplus.es/recorte/n/caratula5/MSEPTIMP4443358" />
-		<category>NEWS</category>
+	<programme start="20261110151500 +0100" stop="20261110165500 +0100" channel="LA SÉPTIMA">
+    <title>En línea</title>
+    <sub-title>2026 | ⑫ | ★5.8/10</sub-title>
+    <desc>(Información,Informativo) Espacio que ofrece nuevas voces y nuevas miradas de la actualidad. Con una mirada especial a la calle y a las redes.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443358" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
 	</programme>
-	<programme start="20261110155500 +0000" stop="20261110161000 +0000" channel="LA SÉPTIMA">
-		<title>El relevo: Sarah y Rocío</title>
-		<desc>Espacio que ofrece una actualización de las últimas horas que marcan la información política, económica y social.</desc>
-		<icon src="https://www.movistarplus.es/recorte/n/caratula5/MSEPTIMP4443360" />
-		<category>NEWS</category>
+	<programme start="20261110165500 +0100" stop="20261110171000 +0100" channel="LA SÉPTIMA">
+    <title>El relevo: Sarah y Rocío</title>
+    <sub-title>2026 | ⑫ | ★6.8/10</sub-title>
+    <desc>(Información,Informativo) Espacio que ofrece una actualización de las últimas horas que marcan la información política, económica y social.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443360" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.8/10</value>
+		</star-rating>
 	</programme>
-	<programme start="20261110161000 +0000" stop="20261110175500 +0000" channel="LA SÉPTIMA">
-		<title>Sobre la mesa</title>
-		<desc>Un enfoque de la actualidad centrado en la cultura, el consumo, la economía, la salud o la inteligencia artificial.</desc>
-		<icon src="https://www.movistarplus.es/recorte/n/caratula5/MSEPTIMP4443362" />
-		<category>NEWS</category>
+	<programme start="20261110171000 +0100" stop="20261110185500 +0100" channel="LA SÉPTIMA">
+    <title>Sobre la mesa</title>
+    <sub-title>2026 | ⑫ | ★6.0/10</sub-title>
+    <desc>(Información,Informativo) Un enfoque de la actualidad centrado en la cultura, el consumo, la economía, la salud o la inteligencia artificial.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443362" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
-	<programme start="20261110175500 +0000" stop="20261110181000 +0000" channel="LA SÉPTIMA">
-		<title>El relevo: Rocío y Noor</title>
-		<desc>Espacio que ofrece una actualización de las últimas horas que marcan la información política, económica y social.</desc>
-		<icon src="https://www.movistarplus.es/recorte/n/caratula5/MSEPTIMP4443364" />
-		<category>NEWS</category>
+	<programme start="20261110185500 +0100" stop="20261110191000 +0100" channel="LA SÉPTIMA">
+    <title>El relevo: Rocío y Noor</title>
+    <sub-title>2026 | ⑫ | ★6.0/10</sub-title>
+    <desc>(Información,Informativo) Espacio que ofrece una actualización de las últimas horas que marcan la información política, económica y social.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443364" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
-	<programme start="20261110181000 +0000" stop="20261110194000 +0000" channel="LA SÉPTIMA">
-		<title>La diana</title>
-		<desc>Detrás de los datos hay una historia. Las ponemos en la diana, indagando en causas y consecuencias.</desc>
-		<icon src="https://www.movistarplus.es/recorte/n/caratula5/MSEPTIMP4443366" />
-		<category>ENTERTAINMENT</category>
+	<programme start="20261110191000 +0100" stop="20261110204000 +0100" channel="LA SÉPTIMA">
+    <title>La diana</title>
+    <sub-title>2026 | ⑫ | ★6.0/10</sub-title>
+    <desc>(Entretenimiento,Testimonios) Detrás de los datos hay una historia. Las ponemos en la diana, indagando en causas y consecuencias.
+· País: España</desc>
+    <category>Entretenimiento, Testimonios</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443366" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
-	<programme start="20261110194000 +0000" stop="20261110195000 +0000" channel="LA SÉPTIMA">
-		<title>El Tiempo</title>
-		<desc>Espacio de La Séptimaque ofrece toda la actualidad sobre el tiempo.</desc>
-		<icon src="https://www.movistarplus.es/recorte/n/caratula5/MSEPTIMP4444281" />
-		<category>NEWS</category>
+	<programme start="20261110204000 +0100" stop="20261110205000 +0100" channel="LA SÉPTIMA">
+    <title>El Tiempo</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Información,Meteorología) Espacio de La Séptimaque ofrece toda la actualidad sobre el tiempo.
+· País: España</desc>
+    <category>Información, Meteorología</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4444281" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
-	<programme start="20261110195000 +0000" stop="20261110200500 +0000" channel="LA SÉPTIMA">
-		<title>El relevo: Noor y Javier</title>
-		<desc>Espacio que ofrece una actualización de las últimas horas que marcan la información política, económica y social.</desc>
-		<icon src="https://www.movistarplus.es/recorte/n/caratula5/MSEPTIMP4443368" />
-		<category>NEWS</category>
+	<programme start="20261110205000 +0100" stop="20261110210500 +0100" channel="LA SÉPTIMA">
+    <title>El relevo: Noor y Javier</title>
+    <sub-title>2026 | ⑫ | ★6.0/10</sub-title>
+    <desc>(Información,Informativo) Espacio que ofrece una actualización de las últimas horas que marcan la información política, económica y social.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443368" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
-	<programme start="20261110200500 +0000" stop="20261111000000 +0000" channel="LA SÉPTIMA">
-		<title>La última hora</title>
-		<desc>Los grandes protagonistas del día participan en un debate abierto, plural, sosegado y pegado a la información.</desc>
-		<icon src="https://www.movistarplus.es/recorte/n/caratula5/MSEPTIMP4443370" />
-		<category>NEWS</category>
+	<programme start="20261110210500 +0100" stop="20261111010000 +0100" channel="LA SÉPTIMA">
+    <title>La última hora</title>
+    <sub-title>2026 | ⑫ | ★7.0/10</sub-title>
+    <desc>(Información,Debate) Los grandes protagonistas del día participan en un debate abierto, plural, sosegado y pegado a la información.
+· País: España</desc>
+    <category>Información, Debate</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443370" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>7.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261111010000 +0100" stop="20261111060000 +0100" channel="LA SÉPTIMA">
+    <title>Galería del coleccionista</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Ocio y Aficiones,Televenta) Espacio de teletienda del canal La Séptima. Mil y una ideas con un denominador común: el buen gusto, la exclusividad y la alta calidad, que han hecho de esta marca un verdadero símbolo de excelencia en nuestro país.
+· País: España</desc>
+    <category>Ocio y Aficiones, Televenta</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443348" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261111060000 +0100" stop="20261111100000 +0100" channel="LA SÉPTIMA">
+    <title>Galería del coleccionista</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Ocio y Aficiones,Televenta) Espacio de teletienda del canal La Séptima. Mil y una ideas con un denominador común: el buen gusto, la exclusividad y la alta calidad, que han hecho de esta marca un verdadero símbolo de excelencia en nuestro país.
+· País: España</desc>
+    <category>Ocio y Aficiones, Televenta</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443348" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261111100000 +0100" stop="20261111120000 +0100" channel="LA SÉPTIMA">
+    <title>Puesta al día</title>
+    <sub-title>2026 | ⑫</sub-title>
+    <desc>(Información,Informativo) Espacio que ofrece un repaso a los principales temas de actualidad que marcarán la jornada informativa.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443350" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+	</programme>
+	<programme start="20261111120000 +0100" stop="20261111122500 +0100" channel="LA SÉPTIMA">
+    <title>El primer pulso</title>
+    <sub-title>2026 | ⑫</sub-title>
+    <desc>(Información,Informativo) Espacio que oferce una primera toma de contacto con la actualidad del día. Conexiones en directo y últimas horas.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443352" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+	</programme>
+	<programme start="20261111122500 +0100" stop="20261111123500 +0100" channel="LA SÉPTIMA">
+    <title>El Tiempo</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Información,Meteorología) Espacio de La Séptimaque ofrece toda la actualidad sobre el tiempo.
+· País: España</desc>
+    <category>Información, Meteorología</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4444281" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261111123500 +0100" stop="20261111145500 +0100" channel="LA SÉPTIMA">
+    <title>El pulso</title>
+    <sub-title>2026 | ⑫</sub-title>
+    <desc>(Información,Informativo) Toda la información y el análisis más completo de la mañana. Conexión con todos los puntos que son noticia y la opinión de todos los protagonistas.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443354" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+	</programme>
+	<programme start="20261111145500 +0100" stop="20261111150500 +0100" channel="LA SÉPTIMA">
+    <title>El relevo: Vero y Sarah</title>
+    <sub-title>2026 | ⑫</sub-title>
+    <desc>(Información,Informativo) Espacio que ofrece una actualización de las últimas horas que marcan la información política, económica y social.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443356" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+	</programme>
+	<programme start="20261111150500 +0100" stop="20261111151500 +0100" channel="LA SÉPTIMA">
+    <title>El Tiempo</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Información,Meteorología) Espacio de La Séptimaque ofrece toda la actualidad sobre el tiempo.
+· País: España</desc>
+    <category>Información, Meteorología</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4444281" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261111151500 +0100" stop="20261111165500 +0100" channel="LA SÉPTIMA">
+    <title>En línea</title>
+    <sub-title>2026 | ⑫</sub-title>
+    <desc>(Información,Informativo) Espacio que ofrece nuevas voces y nuevas miradas de la actualidad. Con una mirada especial a la calle y a las redes.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443358" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+	</programme>
+	<programme start="20261111165500 +0100" stop="20261111171000 +0100" channel="LA SÉPTIMA">
+    <title>El relevo: Sarah y Rocío</title>
+    <sub-title>2026 | ⑫</sub-title>
+    <desc>(Información,Informativo) Espacio que ofrece una actualización de las últimas horas que marcan la información política, económica y social.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443360" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+	</programme>
+	<programme start="20261111171000 +0100" stop="20261111185500 +0100" channel="LA SÉPTIMA">
+    <title>Sobre la mesa</title>
+    <sub-title>2026 | ⑫</sub-title>
+    <desc>(Información,Informativo) Un enfoque de la actualidad centrado en la cultura, el consumo, la economía, la salud o la inteligencia artificial.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443362" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+	</programme>
+	<programme start="20261111185500 +0100" stop="20261111191000 +0100" channel="LA SÉPTIMA">
+    <title>El relevo: Rocío y Noor</title>
+    <sub-title>2026 | ⑫</sub-title>
+    <desc>(Información,Informativo) Espacio que ofrece una actualización de las últimas horas que marcan la información política, económica y social.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443364" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+	</programme>
+	<programme start="20261111191000 +0100" stop="20261111204000 +0100" channel="LA SÉPTIMA">
+    <title>La diana</title>
+    <sub-title>2026 | ⑫</sub-title>
+    <desc>(Entretenimiento,Testimonios) Detrás de los datos hay una historia. Las ponemos en la diana, indagando en causas y consecuencias.
+· País: España</desc>
+    <category>Entretenimiento, Testimonios</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443366" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+	</programme>
+	<programme start="20261111204000 +0100" stop="20261111205000 +0100" channel="LA SÉPTIMA">
+    <title>El Tiempo</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Información,Meteorología) Espacio de La Séptimaque ofrece toda la actualidad sobre el tiempo.
+· País: España</desc>
+    <category>Información, Meteorología</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4444281" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261111205000 +0100" stop="20261111210500 +0100" channel="LA SÉPTIMA">
+    <title>El relevo: Noor y Javier</title>
+    <sub-title>2026 | ⑫</sub-title>
+    <desc>(Información,Informativo) Espacio que ofrece una actualización de las últimas horas que marcan la información política, económica y social.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443368" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+	</programme>
+	<programme start="20261111210500 +0100" stop="20261112010000 +0100" channel="LA SÉPTIMA">
+    <title>La última hora</title>
+    <sub-title>2026 | ⑫</sub-title>
+    <desc>(Información,Debate) Los grandes protagonistas del día participan en un debate abierto, plural, sosegado y pegado a la información.
+· País: España</desc>
+    <category>Información, Debate</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443370" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+	</programme>
+	<programme start="20261112010000 +0100" stop="20261112060000 +0100" channel="LA SÉPTIMA">
+    <title>Galería del coleccionista</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Ocio y Aficiones,Televenta) Espacio de teletienda del canal La Séptima. Mil y una ideas con un denominador común: el buen gusto, la exclusividad y la alta calidad, que han hecho de esta marca un verdadero símbolo de excelencia en nuestro país.
+· País: España</desc>
+    <category>Ocio y Aficiones, Televenta</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443348" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261112060000 +0100" stop="20261112100000 +0100" channel="LA SÉPTIMA">
+    <title>Galería del coleccionista</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Ocio y Aficiones,Televenta) Espacio de teletienda del canal La Séptima. Mil y una ideas con un denominador común: el buen gusto, la exclusividad y la alta calidad, que han hecho de esta marca un verdadero símbolo de excelencia en nuestro país.
+· País: España</desc>
+    <category>Ocio y Aficiones, Televenta</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443348" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261112100000 +0100" stop="20261112120000 +0100" channel="LA SÉPTIMA">
+    <title>Puesta al día</title>
+    <sub-title>2026 | ⑫</sub-title>
+    <desc>(Información,Informativo) Espacio que ofrece un repaso a los principales temas de actualidad que marcarán la jornada informativa.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443350" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+	</programme>
+	<programme start="20261112120000 +0100" stop="20261112122500 +0100" channel="LA SÉPTIMA">
+    <title>El primer pulso</title>
+    <sub-title>2026 | ⑫ | ★4.6/10</sub-title>
+    <desc>(Información,Informativo) Espacio que oferce una primera toma de contacto con la actualidad del día. Conexiones en directo y últimas horas.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443352" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>4.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112122500 +0100" stop="20261112123500 +0100" channel="LA SÉPTIMA">
+    <title>El Tiempo</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Información,Meteorología) Espacio de La Séptimaque ofrece toda la actualidad sobre el tiempo.
+· País: España</desc>
+    <category>Información, Meteorología</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4444281" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261112123500 +0100" stop="20261112145500 +0100" channel="LA SÉPTIMA">
+    <title>El pulso</title>
+    <sub-title>2026 | ⑫ | ★6.8/10</sub-title>
+    <desc>(Información,Informativo) Toda la información y el análisis más completo de la mañana. Conexión con todos los puntos que son noticia y la opinión de todos los protagonistas.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443354" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112145500 +0100" stop="20261112150500 +0100" channel="LA SÉPTIMA">
+    <title>El relevo: Vero y Sarah</title>
+    <sub-title>2026 | ⑫</sub-title>
+    <desc>(Información,Informativo) Espacio que ofrece una actualización de las últimas horas que marcan la información política, económica y social.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443356" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+	</programme>
+	<programme start="20261112150500 +0100" stop="20261112151500 +0100" channel="LA SÉPTIMA">
+    <title>El Tiempo</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Información,Meteorología) Espacio de La Séptimaque ofrece toda la actualidad sobre el tiempo.
+· País: España</desc>
+    <category>Información, Meteorología</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4444281" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261112151500 +0100" stop="20261112165500 +0100" channel="LA SÉPTIMA">
+    <title>En línea</title>
+    <sub-title>2026 | ⑫ | ★4.0/10</sub-title>
+    <desc>(Información,Informativo) Espacio que ofrece nuevas voces y nuevas miradas de la actualidad. Con una mirada especial a la calle y a las redes.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443358" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>4.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112165500 +0100" stop="20261112171000 +0100" channel="LA SÉPTIMA">
+    <title>El relevo: Sarah y Rocío</title>
+    <sub-title>2026 | ⑫ | ★9.0/10</sub-title>
+    <desc>(Información,Informativo) Espacio que ofrece una actualización de las últimas horas que marcan la información política, económica y social.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443360" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>9.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112171000 +0100" stop="20261112185500 +0100" channel="LA SÉPTIMA">
+    <title>Sobre la mesa</title>
+    <sub-title>2026 | ⑫ | ★6.0/10</sub-title>
+    <desc>(Información,Informativo) Un enfoque de la actualidad centrado en la cultura, el consumo, la economía, la salud o la inteligencia artificial.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443362" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112185500 +0100" stop="20261112191000 +0100" channel="LA SÉPTIMA">
+    <title>El relevo: Rocío y Noor</title>
+    <sub-title>2026 | ⑫</sub-title>
+    <desc>(Información,Informativo) Espacio que ofrece una actualización de las últimas horas que marcan la información política, económica y social.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443364" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+	</programme>
+	<programme start="20261112191000 +0100" stop="20261112204000 +0100" channel="LA SÉPTIMA">
+    <title>La diana</title>
+    <sub-title>2026 | ⑫ | ★4.8/10</sub-title>
+    <desc>(Entretenimiento,Testimonios) Detrás de los datos hay una historia. Las ponemos en la diana, indagando en causas y consecuencias.
+· País: España</desc>
+    <category>Entretenimiento, Testimonios</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443366" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>4.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112204000 +0100" stop="20261112205000 +0100" channel="LA SÉPTIMA">
+    <title>El Tiempo</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Información,Meteorología) Espacio de La Séptimaque ofrece toda la actualidad sobre el tiempo.
+· País: España</desc>
+    <category>Información, Meteorología</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4444281" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261112205000 +0100" stop="20261112210500 +0100" channel="LA SÉPTIMA">
+    <title>El relevo: Noor y Javier</title>
+    <sub-title>2026 | ⑫</sub-title>
+    <desc>(Información,Informativo) Espacio que ofrece una actualización de las últimas horas que marcan la información política, económica y social.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443368" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+	</programme>
+	<programme start="20261112210500 +0100" stop="20261113010000 +0100" channel="LA SÉPTIMA">
+    <title>La última hora</title>
+    <sub-title>2026 | ⑫ | ★6.6/10</sub-title>
+    <desc>(Información,Debate) Los grandes protagonistas del día participan en un debate abierto, plural, sosegado y pegado a la información.
+· País: España</desc>
+    <category>Información, Debate</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443370" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261113010000 +0100" stop="20261113060000 +0100" channel="LA SÉPTIMA">
+    <title>Galería del coleccionista</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Ocio y Aficiones,Televenta) Espacio de teletienda del canal La Séptima. Mil y una ideas con un denominador común: el buen gusto, la exclusividad y la alta calidad, que han hecho de esta marca un verdadero símbolo de excelencia en nuestro país.
+· País: España</desc>
+    <category>Ocio y Aficiones, Televenta</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443348" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261113060000 +0100" stop="20261113100000 +0100" channel="LA SÉPTIMA">
+    <title>Galería del coleccionista</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Ocio y Aficiones,Televenta) Espacio de teletienda del canal La Séptima. Mil y una ideas con un denominador común: el buen gusto, la exclusividad y la alta calidad, que han hecho de esta marca un verdadero símbolo de excelencia en nuestro país.
+· País: España</desc>
+    <category>Ocio y Aficiones, Televenta</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443348" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261113100000 +0100" stop="20261113120000 +0100" channel="LA SÉPTIMA">
+    <title>Puesta al día</title>
+    <sub-title>2026 | ⑫ | ★7.4/10</sub-title>
+    <desc>(Información,Informativo) Espacio que ofrece un repaso a los principales temas de actualidad que marcarán la jornada informativa.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443350" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>7.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261113120000 +0100" stop="20261113122500 +0100" channel="LA SÉPTIMA">
+    <title>El primer pulso</title>
+    <sub-title>2026 | ⑫ | ★5.2/10</sub-title>
+    <desc>(Información,Informativo) Espacio que oferce una primera toma de contacto con la actualidad del día. Conexiones en directo y últimas horas.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443352" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261113122500 +0100" stop="20261113123500 +0100" channel="LA SÉPTIMA">
+    <title>El Tiempo</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Información,Meteorología) Espacio de La Séptimaque ofrece toda la actualidad sobre el tiempo.
+· País: España</desc>
+    <category>Información, Meteorología</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4444281" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261113123500 +0100" stop="20261113145500 +0100" channel="LA SÉPTIMA">
+    <title>El pulso</title>
+    <sub-title>2026 | ⑫ | ★6.6/10</sub-title>
+    <desc>(Información,Informativo) Toda la información y el análisis más completo de la mañana. Conexión con todos los puntos que son noticia y la opinión de todos los protagonistas.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443354" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261113145500 +0100" stop="20261113150500 +0100" channel="LA SÉPTIMA">
+    <title>El relevo: Vero y Sarah</title>
+    <sub-title>2026 | ⑫</sub-title>
+    <desc>(Información,Informativo) Espacio que ofrece una actualización de las últimas horas que marcan la información política, económica y social.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443356" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+	</programme>
+	<programme start="20261113150500 +0100" stop="20261113151500 +0100" channel="LA SÉPTIMA">
+    <title>El Tiempo</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Información,Meteorología) Espacio de La Séptimaque ofrece toda la actualidad sobre el tiempo.
+· País: España</desc>
+    <category>Información, Meteorología</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4444281" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261113151500 +0100" stop="20261113165500 +0100" channel="LA SÉPTIMA">
+    <title>En línea</title>
+    <sub-title>2026 | ⑫ | ★5.4/10</sub-title>
+    <desc>(Información,Informativo) Espacio que ofrece nuevas voces y nuevas miradas de la actualidad. Con una mirada especial a la calle y a las redes.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443358" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261113165500 +0100" stop="20261113171000 +0100" channel="LA SÉPTIMA">
+    <title>El relevo: Sarah y Rocío</title>
+    <sub-title>2026 | ⑫ | ★9.0/10</sub-title>
+    <desc>(Información,Informativo) Espacio que ofrece una actualización de las últimas horas que marcan la información política, económica y social.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443360" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>9.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261113171000 +0100" stop="20261113185500 +0100" channel="LA SÉPTIMA">
+    <title>Sobre la mesa</title>
+    <sub-title>2026 | ⑫ | ★6.0/10</sub-title>
+    <desc>(Información,Informativo) Un enfoque de la actualidad centrado en la cultura, el consumo, la economía, la salud o la inteligencia artificial.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443362" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261113185500 +0100" stop="20261113191000 +0100" channel="LA SÉPTIMA">
+    <title>El relevo: Rocío y Noor</title>
+    <sub-title>2026 | ⑫</sub-title>
+    <desc>(Información,Informativo) Espacio que ofrece una actualización de las últimas horas que marcan la información política, económica y social.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443364" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+	</programme>
+	<programme start="20261113191000 +0100" stop="20261113204000 +0100" channel="LA SÉPTIMA">
+    <title>La diana</title>
+    <sub-title>2026 | ⑫ | ★5.6/10</sub-title>
+    <desc>(Entretenimiento,Testimonios) Detrás de los datos hay una historia. Las ponemos en la diana, indagando en causas y consecuencias.
+· País: España</desc>
+    <category>Entretenimiento, Testimonios</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443366" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261113204000 +0100" stop="20261113205000 +0100" channel="LA SÉPTIMA">
+    <title>El Tiempo</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Información,Meteorología) Espacio de La Séptimaque ofrece toda la actualidad sobre el tiempo.
+· País: España</desc>
+    <category>Información, Meteorología</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4444281" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261113205000 +0100" stop="20261113210500 +0100" channel="LA SÉPTIMA">
+    <title>El relevo: Noor y Javier</title>
+    <sub-title>2026 | ⑫</sub-title>
+    <desc>(Información,Informativo) Espacio que ofrece una actualización de las últimas horas que marcan la información política, económica y social.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443368" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+	</programme>
+	<programme start="20261113210500 +0100" stop="20261114010000 +0100" channel="LA SÉPTIMA">
+    <title>La última hora</title>
+    <sub-title>2026 | ⑫ | ★7.0/10</sub-title>
+    <desc>(Información,Debate) Los grandes protagonistas del día participan en un debate abierto, plural, sosegado y pegado a la información.
+· País: España</desc>
+    <category>Información, Debate</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443370" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>7.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261114010000 +0100" stop="20261114060000 +0100" channel="LA SÉPTIMA">
+    <title>Galería del coleccionista</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Ocio y Aficiones,Televenta) Espacio de teletienda del canal La Séptima. Mil y una ideas con un denominador común: el buen gusto, la exclusividad y la alta calidad, que han hecho de esta marca un verdadero símbolo de excelencia en nuestro país.
+· País: España</desc>
+    <category>Ocio y Aficiones, Televenta</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MSEPTIMF4443348" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261108065900 +0100" stop="20261108110500 +0100" channel="La 1 HD">
     <title>Noticias 24H</title>
