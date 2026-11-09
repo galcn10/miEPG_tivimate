@@ -353,4 +353,4 @@ M+ Golf HD,M+ GOLF
 M+ Vamos 3,M+ VAMOS 3
 Iberalia TV,IBERALIA TV
 Antena 3 HD,A3 UHD
-LaSeptima.TV,LA SÉPTIMA,https://pbs.twimg.com/profile_images/2074450480743297024/UTvLXCSQ_200x200.jpg
+La Séptima,LA SÉPTIMA,https://pbs.twimg.com/profile_images/2074450480743297024/UTvLXCSQ_200x200.jpg
