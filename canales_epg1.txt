@@ -8,17 +8,17 @@ La Sexta HD,La Sexta,https://raw.githubusercontent.com/davidmuma/picons_dobleM/m
 M+ Estrenos HD,M+ Estrenos,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Estrenos.png
 M+ Hits HD,M+ Hits,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Hits.png
 M+ Originales HD,M+ Originales,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Originales.png
-M+ Terror,M+ Terror,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Terror.png
 M+ Documentales HD,M+ Documentales,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Documentales.png
-M+ Romance,M+ Romance,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Romance.png
+M+ Navidad,M+ Terror,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Terror.png
+M+ Thriller,M+ Romance,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Romance.png
+M+ PopUp,M+ PopUp,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20PopUp.png
+M+ PopUp 2,M+ PopUp 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20PopUp%202.png
 M+ Clásicos HD,M+ Clásicos,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cl%C3%A1sicos.png
 M+ Acción HD,M+ Acción,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Acci%C3%B3n.png
 M+ Comedia HD,M+ Comedia,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Comedia.png
 M+ Drama HD,M+ Drama,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Drama.png
 M+ Indie HD,M+ Indie,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Indie.png
 M+ Cine Español,M+ Cine Español,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cine%20Espa%C3%B1ol.png
-M+ PopUp,M+ PopUp,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20PopUp.png
-M+ PopUp 2,M+ PopUp 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20PopUp%202.png
 Canal FlixOlé 1,Canal FlixOlé 1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20FlixOl%C3%A9%201.png
 Canal FlixOlé 2,Canal FlixOlé 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20FlixOl%C3%A9%202.png
 TCM HD,TCM,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TCM.png
@@ -427,7 +427,6 @@ Sony One Hits Comedia,Sony One Hits Comedia,https://tvpnlogopeu.samsungcloud.tv/
 Sony One Hits Acción,Sony One Hits Acción,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300006QJ_20251111T011921SQUARE.png
 Mr Bean Animated,Mr Bean Animated,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES900001SH_20250923T011557SQUARE.png
 Tennis+,Tennis+,https://provider-static.plex.tv/epg/cms/production/704e7af1-90a0-4ad4-94de-af2559c19fa6/1_Tennis_Plus_Logo__Dark_Mode__1500x1000px.png
-FashionTV,FashionTV,https://provider-static.plex.tv/epg/cms/production/47127441-d5b6-42a3-b641-a7c076d20940/Fashion_PNG_w__transparent_background__All_white_Logo_for_Attribution__-_Yuri_Alexandrov.png
 FANPLAY TV Primera Federación 1,FANPLAY TV Primera Federación 1,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReZW0T1JCPFdWLodj4_Nw43TdFBQ0CSYO4OMUUIW37mw&amp;s=10
 FANPLAY TV Primera Federación 2,FANPLAY TV Primera Federación 2,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReZW0T1JCPFdWLodj4_Nw43TdFBQ0CSYO4OMUUIW37mw&amp;s=10
 FANPLAY TV Primera Federación 3,FANPLAY TV Primera Federación 3,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReZW0T1JCPFdWLodj4_Nw43TdFBQ0CSYO4OMUUIW37mw&amp;s=10
