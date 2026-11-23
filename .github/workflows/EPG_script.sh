@@ -1,7 +1,7 @@
 #!/bin/bash
 # ============================================================================== 
 # Script: miEPG.sh 
-# Versión: 3.8
+# Versión: 3.9
 # Función: Combina múltiples XMLs, renombra canales, cambia logos y ajusta hora 
 # ============================================================================== 
 
@@ -60,6 +60,15 @@ while IFS=, read -r epg; do
         sed -i 's/></>\n</g' EPG_temp.xml		
     fi	
 done < epgs.txt
+
+# Si no se pudo descargar ninguna guía, no se toca nada: se queda la publicada anterior
+# (antes se publicaba solo el histórico, sin ningún <channel>, y se perdían todos los logos).
+if [ ! -s EPG_temp.xml ]; then
+    echo " ❌ No se ha descargado ninguna EPG. Se mantiene miEPG.xml anterior sin cambios."
+    rm -f EPG_temp* 2>/dev/null
+    git checkout -- canales_epg*.txt 2>/dev/null
+    exit 0
+fi
 
 echo "─── PROCESANDO CANALES ───"
 
@@ -191,7 +200,14 @@ for linea in "${canales[@]}"; do
         cat EPG_temp02.xml >> EPG_temp2.xml
   
     else
-        echo "        Saltando canal: $old ··· $contar_channel coincidencias"
+        # El canal no viene en la descarga de hoy: se conserva su <channel> (nombre y logo) del histórico,
+        # porque sus programas antiguos sí se rescatan más abajo.
+        if [ -f epg_acumulado.xml ] && grep -q "<channel id=\"${new}\">" epg_acumulado.xml; then
+            sed -n "/<channel id=\"${new}\">/,/<\/channel>/p" epg_acumulado.xml >> EPG_temp1.xml
+            echo "        Saltando canal: $old ··· sin programas nuevos, se conserva su canal del histórico"
+        else
+            echo "        Saltando canal: $old ··· $contar_channel coincidencias"
+        fi
     fi
 done
 
